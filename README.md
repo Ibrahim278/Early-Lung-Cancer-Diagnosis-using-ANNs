@@ -10,3 +10,5 @@ The tools and technologies used in this study are:
  - Kaggle Notebooks
 
 The 1st month of the study included a thorough literature review of existing work. The 2nd month involved data collection and pre-processing. The 3rd month was about training the model on various datasets. The 4th month included testing the model on the test sets and comparing the model to the work discussed in the literature and lastly the last stage of the study was writing up the thesis report.
+
+The dataset can be downloaded from: https://www.cancerimagingarchive.net/collection/nlst/
