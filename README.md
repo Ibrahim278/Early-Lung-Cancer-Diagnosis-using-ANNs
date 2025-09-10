@@ -1,7 +1,7 @@
 # Early-Lung-Cancer-Diagnosis-using-ANNs
 This project focuses on developing an ANN Model for Early Lung Cancer Diagnosis
 
-Worked on my 4-month thesis on detecting early lung cancer using ANNs. The aim of the project was to train and test a robust Deep Learning Model that can assist radiologists in detecting lung cancer by scanning X-Rays and CT Scans. The datasets used in this project are publicly available on the LIDC-IDRI Database.
+The aim of the project was to train and test a robust Deep Learning Model that can assist radiologists in detecting lung cancer by scanning X-Rays and CT Scans. The datasets used in this project are publicly available on the LIDC-IDRI Database.
 
 The tools and technologies used in this study are:
  - Python
